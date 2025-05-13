@@ -11,8 +11,9 @@
 - [Cookbook Pandas](https://pandas.pydata.org/docs/user_guide/cookbook.html)
 - [Pandas Cheat Sheet](https://drive.google.com/file/d/1lEoxFLVawdBw4cmLZ74yYLD20j35hJaY/view)
 ## Módulo 4:
-## Módulo 5
-## Módulo 6
-## Módulo 7
-## Módulo 8
-## Módulo 9
+## Módulo 5:
+## Módulo 6:
+## Módulo 7:
+[Dashboard](https://lookerstudio.google.com/reporting/ed471827-82aa-4da6-9add-a136f69a452a)
+## Módulo 8:
+## Módulo 9:
