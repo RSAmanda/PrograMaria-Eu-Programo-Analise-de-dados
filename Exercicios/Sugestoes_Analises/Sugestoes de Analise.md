@@ -5,9 +5,9 @@
 
 Página dos dados:
 
-(Comparecimentos e Abstenções)[https://dadosabertos.tse.jus.br/dataset/comparecimento-e-abstencao-2024]
+[Comparecimentos e Abstenções](https://dadosabertos.tse.jus.br/dataset/comparecimento-e-abstencao-2024)
 
-(Arquivo Fonte - Comparecimentos e Abstenções)[https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_comparecimento_abstencao/perfil_comparecimento_abstencao_2024.zip]
+[Arquivo Fonte - Comparecimentos e Abstenções](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_comparecimento_abstencao/perfil_comparecimento_abstencao_2024.zip)
 
 Utilizar o arquivo perfil_comparecimento_abstencao_2024_BRASIL.csv
 
